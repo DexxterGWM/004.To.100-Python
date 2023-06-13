@@ -1,3 +1,4 @@
+# 🚨 Don't change the code below 👇🏻
 import random
 
 # Split string method
@@ -6,7 +7,6 @@ names = names_string.split(', ')
 # 🚨 Don't change the acode above 👆🏻
 
 # Write your code below this line 👇🏻
-
 # Get the total number of itens in list.
 num_items = len(names)
 
@@ -16,3 +16,4 @@ num_items = len(names)
 
 person_who_will_pay = random.choice(names)
 print(person_who_will_pay + ' is going to buy the meal today.')
+# Write your code above this line 👆🏻
